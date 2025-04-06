@@ -1,6 +1,6 @@
 ## Software Engineer with almost 10 years of experience.
 
-I build full-stack applications, mobile apps, TV apps, and UI for embedded apps. The bulk of my experience is in Multimedia & Entertainment, but I also have experience in Finance and Insurance. Focusing on performance optimizations and analytics. I also do public speaking, sharing knowledge on topics app performance, architecture, cross-platform development and other.
+I build full-stack applications, mobile apps, TV apps, and UI for embedded apps. The bulk of my experience is in Multimedia & Entertainment, but I also have experience in Finance and Insurance. I focus on performance optimizations and analytics. I also do public speaking, sharing knowledge on topics app performance, architecture, cross-platform development and other.  
 Led a cross-functional team of 18 people, prioritisation and planning, task distribution, dependency coordination, tech debt fixes, and quality improvements.
 <!--
 **Shastel/shastel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
